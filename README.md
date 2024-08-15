@@ -13,9 +13,7 @@ Insights and Analysis
          Total Revenue: By summing up the revenue generated from all pizza sales, I calculated the total earnings. This metric serves as a key indicator of business performance.
    
          Highest-Priced Pizza: Identifying the most expensive pizza helped highlight premium offerings and potential profit drivers within the product lineup.
-   
-         Most Common Pizza Size: The query revealed the most frequently ordered pizza size, giving insights into customer preferences.
-   
+      
          Top 5 Most Ordered Pizza Types: The top five most ordered pizzas, along with their quantities, were identified, showcasing the business’s best-selling items and helping to assess product popularity.
    
 2. Intermediate Analysis
