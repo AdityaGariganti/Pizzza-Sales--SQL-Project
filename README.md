@@ -40,8 +40,11 @@ Insights and Analysis
 SQL Techniques Employed:
 
 Aggregation Functions: I used SUM(), COUNT(), AVG(), and other aggregate functions to summarize data effectively.
+
 JOINS: By performing various types of joins between tables, I was able to combine data across different dimensions such as order details, pizza details, and categories.
+
 Group By and Date Functions: Grouping data by date and time helped to uncover trends and patterns in sales activity.
+
 Window Functions: I utilized window functions for more advanced analysis, including ranking pizzas based on revenue and calculating cumulative totals.
 
 Conclusion:
@@ -54,7 +57,9 @@ As part of the continuous improvement of this analysis,
 I plan to:
 
 Integrate more complex queries, such as predicting future sales using historical data.
+
 Incorporate visualizations to better represent the trends and insights.
+
 Further segment the analysis by customer demographics or location (if data is available) to provide more targeted business recommendations.
 
 
